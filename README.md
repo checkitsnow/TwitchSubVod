@@ -13,8 +13,6 @@ Watch any sub-only Twitch vod, deleted vod or deleted clip for free. It works wi
 
 Watch now: [Twitch Sub Vod](https://pogu.live)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K63GGFK)
-
 ## Features
 
 ### Sub-only vods
@@ -57,8 +55,6 @@ This project is in no way affiliated with Twitch Interactive, Inc. Amazon.com, I
 
 ## Author Info
 
-- Twitter - [@alissonsleal](https://twitter.com/alissonsleal) <i>dms are open</i>
-- Discord - [Alisson#0629](https://discord.com/)
-- StackOverflow - [Alisson Leal](https://stackoverflow.com/users/14122260/alisson-leal)
+- Twitter - [@pogu_live](https://twitter.com/pogu_live) <i>dms are open</i>
 
 [Go to the top 🚀](#twitch-sub-vod)
